@@ -1,5 +1,5 @@
 // queue with 2 stacks
-// also known as a Quack
+// also known as a Quack 😛
 
 function Quack() {
   this.in = []
